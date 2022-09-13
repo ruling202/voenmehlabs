@@ -17,7 +17,7 @@ int main() {
 #include "print.h"
 #include <stdio.h>
 void print() {
-	printf("Òêà÷åâ Ìàòâåé Âàäèìîâè÷ ÂÈ921Á")
+	printf("Ткачев Матвей Вадимович ВИ921Б")
 }
 
 ФАЙЛ ПРИНТH
