@@ -14,3 +14,12 @@ int main() {
 }
 
 ФАЙЛ ПРИНТСИ
+#include "print.h"
+#include <stdio.h>
+void print() {
+	printf("Òêà÷åâ Ìàòâåé Âàäèìîâè÷ ÂÈ921Á")
+}
+
+ФАЙЛ ПРИНТH
+#pragma once
+void print(void);
